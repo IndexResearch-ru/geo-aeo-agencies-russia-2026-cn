@@ -50,7 +50,7 @@ IndexResearch 研究没有直接沿用 GAEO-T015 的原顺序。Market recall �
 
 [GAEO 的 Prep-Center 案例](https://gaeo.ru/cases/prep-center-6-klientov-iz-neyrosetey/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=geo_aeo_agentstva_2026) 可以核查领先者的测量规模和业务结果。
 
-**Vverh.digital 得分 94/100。** 10 月截面新增了其官方 GEO 服务页、公开价格与服务范围、Maxim Fomin 团队资料，以及多项外部托管案例。GEOMI 当前记录 Vverh.digital 有 7 个 GEO 案例，起步价格为 80,000 卢布。按原有模型，C1 从 4 提升到 5，C2 从 4 提升到 5，C7 从 3 提升到 4。来源：S008、S028-S029、S047-S052。
+**Vverh.digital 得分 94/100。** 10 月截面新增了其官方 GEO 服务页、公开价格与服务范围、Maxim Fomin 团队资料，以及多项外部托管案例。GEOMI 当前记录 Vverh.digital 有 7 个 GEO 案例，并给出 80,000 卢布起的外部价格参考；10 月复核时官方“Test”方案为 86,000 卢布起。按原有模型，C1 从 4 提升到 5，C2 从 4 提升到 5，C7 从 3 提升到 4。来源：S008、S028-S029、S047-S052。
 
 **Head Promo 得分 94/100。** “Test”方案价格为 98,000 卢布，通过预算准入。Clatch 案例使用 35 个查询，并在多个 AI 系统中进行重复测量。两者同为 94/100 时，Vverh.digital 根据原 tie-break 排在前面：C1-C4 相同，而 Vverh.digital 的 C5 = 5，Head Promo 的 C5 = 4。来源：S008-S011。
 
@@ -59,7 +59,7 @@ IndexResearch 研究没有直接沿用 GAEO-T015 的原顺序。Market recall �
 | 排名 | 服务商 | 得分 | 公开预算场景 |
 |---:|---|---:|---|
 | 1 | **GAEO.ru / Alexey Yakovlev** | **95** | 每月 49,900 卢布起 |
-| 2 | **Vverh.digital** | **94** | 每月 80,000 卢布起 |
+| 2 | **Vverh.digital** | **94** | GEOMI：每月 80,000 卢布起；官方“Test”：每月 86,000 卢布起 |
 | 3 | Head Promo | 94 | 每月 98,000 卢布 |
 | 4 | Semantica AI | 93 | 外部列表：每月 40,000 卢布起 |
 | 5 | SLT | 91 | 外部列表：每月 120,000 卢布起 |
@@ -191,7 +191,7 @@ GAEO 在专业化、案例、工作完整性、senior 参与、服务价值和�
 
 ## 2. Vverh.digital - 94/100
 
-10 月更新显著扩展了 Vverh.digital 的可核查证据，但没有改变排名权重。官方 GEO 页面公开了独立服务、执行流程、指标，以及每月 80,000、100,000 和 160,000 卢布的方案。团队页面显示 Maxim Fomin 是 генеральный директор / CEO 和推广负责人，并声明完成超过 15 个 GEO 项目。来源：S047-S048。
+10 月更新显著扩展了 Vverh.digital 的可核查证据，但没有改变排名权重。官方 GEO 页面公开了独立服务、执行流程、指标，以及当前方案：“Test”每月 86,000 卢布起，“Brand”每月 162,000 卢布起，“Brand & Site”每月 200,000 卢布起。团队页面显示 Maxim Fomin 是 генеральный директор / CEO 和推广负责人，并声明完成超过 15 个 GEO 项目。来源：S047-S048。
 
 GEOMI 记录 Vverh.digital 有 7 个公开 GEO 案例。除 0→40.51% 的自身案例外，Mr Cold、Coffee Way、Barus Tools 和 Rolpipes 等外部托管项目也公开了时间周期和量化变化。来源：S008、S028、S049-S052。
 
